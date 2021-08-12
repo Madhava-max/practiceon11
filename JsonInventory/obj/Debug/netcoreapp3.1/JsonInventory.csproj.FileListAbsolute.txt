@@ -1,0 +1,16 @@
+C:\Users\kotha\source\repos\JsonInventory\bin\Debug\netcoreapp3.1\JsonInventory.exe
+C:\Users\kotha\source\repos\JsonInventory\bin\Debug\netcoreapp3.1\JsonInventory.deps.json
+C:\Users\kotha\source\repos\JsonInventory\bin\Debug\netcoreapp3.1\JsonInventory.runtimeconfig.json
+C:\Users\kotha\source\repos\JsonInventory\bin\Debug\netcoreapp3.1\JsonInventory.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\JsonInventory\bin\Debug\netcoreapp3.1\JsonInventory.dll
+C:\Users\kotha\source\repos\JsonInventory\bin\Debug\netcoreapp3.1\JsonInventory.pdb
+C:\Users\kotha\source\repos\JsonInventory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kotha\source\repos\JsonInventory\obj\Debug\netcoreapp3.1\JsonInventory.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\JsonInventory\obj\Debug\netcoreapp3.1\JsonInventory.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\JsonInventory\obj\Debug\netcoreapp3.1\JsonInventory.AssemblyInfo.cs
+C:\Users\kotha\source\repos\JsonInventory\obj\Debug\netcoreapp3.1\JsonInventory.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\JsonInventory\obj\Debug\netcoreapp3.1\JsonInventory.csproj.CopyComplete
+C:\Users\kotha\source\repos\JsonInventory\obj\Debug\netcoreapp3.1\JsonInventory.dll
+C:\Users\kotha\source\repos\JsonInventory\obj\Debug\netcoreapp3.1\JsonInventory.pdb
+C:\Users\kotha\source\repos\JsonInventory\obj\Debug\netcoreapp3.1\JsonInventory.genruntimeconfig.cache
+C:\Users\kotha\source\repos\JsonInventory\obj\Debug\netcoreapp3.1\JsonInventory.GeneratedMSBuildEditorConfig.editorconfig

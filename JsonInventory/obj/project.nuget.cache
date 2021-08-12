@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HyFYP4A+PWHdgXw0ylGsuSyo0cuv5FXAUCDucjdkYoZtOfvVyMLwfQddt4O0gjaBRa7p9g3XjmrBsNLCAV0oCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kotha\\source\\repos\\JsonInventory\\JsonInventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kotha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
